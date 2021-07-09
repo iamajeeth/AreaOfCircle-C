@@ -1,4 +1,4 @@
 # Area of Circle
-**Finding area of circle with C Programming.**
+**Finding area of circle with radius using C Programming.**
 
 ***To know more abour code and object file look into branches.***
